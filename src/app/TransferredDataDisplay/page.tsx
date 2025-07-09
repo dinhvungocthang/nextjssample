@@ -23,7 +23,7 @@ export default function TransferredDataDisplay() {
                             <div>
                                 <label htmlFor="year" className="text-gray-600 whitespace-nowrap">漁獲年</label>
                                 <div className="flex items-center space-x-2">
-                                    <input type="text" id="year" value="2025a"
+                                    <input type="text" id="year"
                                            className="h-7 w-20 border rounded-md text-center text-gray-600 focus:outline-none border-red-500 ring-1 ring-red-500  focus:ring-red-500 focus:border-red-500 shadow-red-300"/>
                                     {/*<input type="text" id="year"*/}
                                     {/*       className="h-7 w-20 border border-black rounded-md text-center focus:border-black text-gray-600"/>*/}
