@@ -1,6 +1,6 @@
 export default function TransferredDataDisplay() {
     return (
-        <div className="bg-blue-50 p-1">
+        <div className="bg-white p-1">
             <div className="bg-white p-6 rounded-lg shadow-md w-auto m-5 border border-black">
                 <h2 className="text-lg font-semibold mb-4 text-gray-600">チェック条件</h2>
 
