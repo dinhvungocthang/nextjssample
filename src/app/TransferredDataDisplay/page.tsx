@@ -6,52 +6,71 @@ export default function TransferredDataDisplay() {
 
                 <div className="flex gap-6 mb-6">
 
-                    <div className="border border-black p-4 rounded-lg basis-2/5 gap-6 flex items-center">
+                    <div className="border border-black p-4 rounded-lg basis-2/5 gap-6 flex items-start">
                         <div className="grid grid-cols-1 basis-1/2">
                             <label htmlFor="country" className="text-gray-600 whitespace-nowrap">国籍</label>
+                            {/*<select id="country"*/}
+                            {/*        className="h-7 flex border border-black rounded-md focus:border-black text-gray-600">*/}
                             <select id="country"
-                                    className="flex-grow border border-black rounded-md focus:border-black text-gray-600">
+                                    className="h-7 flex border rounded-md text-gray-600 border-red-500 ring-1 ring-red-500  focus:ring-red-500 focus:border-red-500 shadow-red-300">
                                 <option>ロシア</option>
+                                <option>ロシア1</option>
+                                <option>ロシア2</option>
                             </select>
+                            <p className="text-red-500 text-xs mt-1">国籍を選択してください。</p>
                         </div>
-                        <div className="grid grid-cols-1 basis-1/4">
-                            <label htmlFor="year" className="text-gray-600 whitespace-nowrap">漁獲年</label>
-                            <div className="flex items-center space-x-2">
-                                <input type="text" id="year"
-                                       className="w-20 border border-black rounded-md text-center focus:border-black"/>
-                                <span className="text-gray-600">年</span>
+                        <div className="grid grid-cols-1 basis-1/2">
+                            <div>
+                                <label htmlFor="year" className="text-gray-600 whitespace-nowrap">漁獲年</label>
+                                <div className="flex items-center space-x-2">
+                                    <input type="text" id="year" value="2025a"
+                                           className="h-7 w-20 border rounded-md text-center text-gray-600 focus:outline-none border-red-500 ring-1 ring-red-500  focus:ring-red-500 focus:border-red-500 shadow-red-300"/>
+                                    {/*<input type="text" id="year"*/}
+                                    {/*       className="h-7 w-20 border border-black rounded-md text-center focus:border-black text-gray-600"/>*/}
+                                    <span className="text-gray-600">年</span>
+                                </div>
                             </div>
+                            <p className="text-red-500 text-xs mt-1">半角数字で入力してください</p>
                         </div>
                     </div>
 
-                    <div className="border border-black p-4 rounded-lg basis-2/5 gap-6">
-                        <div className="flex items-center space-x-4 mb-4">
+                    <div className="border border-black p-4 rounded-lg basis-2/5 gap-6 flex">
+                        <div className="flex items-start">
                             <label htmlFor="country" className="text-gray-600 whitespace-nowrap">日付</label>
-                            <label className="inline-flex items-center">
-                                <input type="radio" name="date_type" value="work_date"
-                                       className="form-radio text-blue-600 rounded-full"/>
-                                <span
-                                    className="ml-2 text-gray-600 whitespace-nowrap">操業日</span>
-                            </label>
-                            <label className="inline-flex items-center">
-                                <input type="radio" name="date_type" value="data_sent_date"
-                                       className="form-radio text-blue-600 rounded-full"/>
-                                <span
-                                    className="ml-2 text-gray-600 whitespace-nowrap">データ送信日</span>
-                            </label>
-                            <label className="inline-flex items-center">
-                                <input type="radio" name="date_type" value="data_registered_date"
-                                       className="form-radio text-blue-600 rounded-full"/>
-                                <span
-                                    className="ml-2 text-gray-600 whitespace-nowrap">データ登録日</span>
-                            </label>
                         </div>
-                        <div className="flex items-center space-x-2">
-                            <input type="date"
-                                   className="border border-black rounded-md p-2 focus:border-black"/>
-                            <span className="text-gray-600">〜</span>
-                            <input type="date"
-                                   className="border border-black rounded-md p-2 focus:border-black"/>
+                        <div>
+                            <div className="flex items-center mb-4">
+                                <label className="inline-flex items-center">
+                                    <input type="radio" name="date_type" value="work_date"
+                                           className="form-radio text-blue-600 rounded-full"/>
+                                    <span
+                                        className="ml-2 text-gray-600 whitespace-nowrap">操業日</span>
+                                </label>
+                                <label className="inline-flex items-center">
+                                    <input type="radio" name="date_type" value="data_sent_date"
+                                           className="form-radio text-blue-600 rounded-full"/>
+                                    <span
+                                        className="ml-2 text-gray-600 whitespace-nowrap">データ送信日</span>
+                                </label>
+                                <label className="inline-flex items-center">
+                                    <input type="radio" name="date_type" value="data_registered_date"
+                                           className="form-radio text-blue-600 rounded-full"/>
+                                    <span
+                                        className="ml-2 text-gray-600 whitespace-nowrap">データ登録日</span>
+                                </label>
+                            </div>
+                            <div>
+                                <div className="flex items-center space-x-2">
+                                    <input type="date"
+                                        // className="h-7 border rounded-md p-2 border-black  focus:border-black shadow-red-200"/>
+                                           className="h-7 border rounded-md p-2 border-red-500 ring-1 ring-red-500  focus:ring-red-500 focus:border-red-500 shadow-red-300"/>
+                                    <span className="text-gray-600">〜</span>
+                                    <input type="date"
+                                        // className="h-7 border rounded-md p-2 border-black  focus:border-black"/>
+                                           className="h-7 border rounded-md p-2 border-red-500 ring-1 ring-red-500  focus:ring-red-500 focus:border-red-500 shadow-red-300"/>
+                                </div>
+                                <p className="text-red-500 text-xs mt-1">終了日は開始日より後に設定してください。</p>
+                            </div>
                         </div>
                     </div>
                 </div>
