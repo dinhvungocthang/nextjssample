@@ -108,32 +108,32 @@ export default function TransferredDataDisplay() {
                                     </thead>
                                     <tbody className="bg-white divide-y divide-gray-200">
                                     <tr>
-                                        <td className="px-3 py-2 whitespace-nowrap text-sm text-gray-900">1-1 M-72</td>
-                                        <td className="px-3 py-2 whitespace-nowrap text-sm text-gray-900">ピュートル1号</td>
+                                        <td className="px-3 py-2 whitespace-nowrap text-sm text-gray-600">1-1 M-72</td>
+                                        <td className="px-3 py-2 whitespace-nowrap text-sm text-gray-600">ピュートル1号</td>
                                     </tr>
                                     <tr>
-                                        <td className="px-3 py-2 whitespace-nowrap text-sm text-gray-900">1-1 M-31</td>
-                                        <td className="px-3 py-2 whitespace-nowrap text-sm text-gray-900">マイロニス</td>
+                                        <td className="px-3 py-2 whitespace-nowrap text-sm text-gray-600">1-1 M-31</td>
+                                        <td className="px-3 py-2 whitespace-nowrap text-sm text-gray-600">マイロニス</td>
                                     </tr>
                                     <tr>
-                                        <td className="px-3 py-2 whitespace-nowrap text-sm text-gray-900">1-1 M-38</td>
-                                        <td className="px-3 py-2 whitespace-nowrap text-sm text-gray-900">ソリダルノシチ</td>
+                                        <td className="px-3 py-2 whitespace-nowrap text-sm text-gray-600">1-1 M-38</td>
+                                        <td className="px-3 py-2 whitespace-nowrap text-sm text-gray-600">ソリダルノシチ</td>
                                     </tr>
                                     <tr>
-                                        <td className="px-3 py-2 whitespace-nowrap text-sm text-gray-900">1-1 M-38</td>
-                                        <td className="px-3 py-2 whitespace-nowrap text-sm text-gray-900">ソリダルノシチ</td>
+                                        <td className="px-3 py-2 whitespace-nowrap text-sm text-gray-600">1-1 M-38</td>
+                                        <td className="px-3 py-2 whitespace-nowrap text-sm text-gray-600">ソリダルノシチ</td>
                                     </tr>
                                     <tr>
-                                        <td className="px-3 py-2 whitespace-nowrap text-sm text-gray-900">1-1 M-38</td>
-                                        <td className="px-3 py-2 whitespace-nowrap text-sm text-gray-900">ソリダルノシチ</td>
+                                        <td className="px-3 py-2 whitespace-nowrap text-sm text-gray-600">1-1 M-38</td>
+                                        <td className="px-3 py-2 whitespace-nowrap text-sm text-gray-600">ソリダルノシチ</td>
                                     </tr>
                                     <tr>
-                                        <td className="px-3 py-2 whitespace-nowrap text-sm text-gray-900">1-1 M-38</td>
-                                        <td className="px-3 py-2 whitespace-nowrap text-sm text-gray-900">ソリダルノシチ</td>
+                                        <td className="px-3 py-2 whitespace-nowrap text-sm text-gray-600">1-1 M-38</td>
+                                        <td className="px-3 py-2 whitespace-nowrap text-sm text-gray-600">ソリダルノシチ</td>
                                     </tr>
                                     <tr>
-                                        <td className="px-3 py-2 whitespace-nowrap text-sm text-gray-900">1-1 M-38</td>
-                                        <td className="px-3 py-2 whitespace-nowrap text-sm text-gray-900">ソリダルノシチ</td>
+                                        <td className="px-3 py-2 whitespace-nowrap text-sm text-gray-600">1-1 M-38</td>
+                                        <td className="px-3 py-2 whitespace-nowrap text-sm text-gray-600">ソリダルノシチ</td>
                                     </tr>
                                     </tbody>
                                 </table>
@@ -278,106 +278,106 @@ export default function TransferredDataDisplay() {
                         </thead>
                         <tbody className="bg-white divide-y divide-gray-200">
                         <tr>
-                            <td className="table-cell-padding whitespace-nowrap text-sm text-gray-900 border-r border-gray-200 p-2">転載船
+                            <td className="table-cell-padding whitespace-nowrap text-sm text-gray-600 border-r border-gray-200 p-2">転載船
                             </td>
-                            <td className="table-cell-padding whitespace-nowrap text-sm text-gray-900 border-r border-gray-200 p-2">マサバ
+                            <td className="table-cell-padding whitespace-nowrap text-sm text-gray-600 border-r border-gray-200 p-2">マサバ
                             </td>
-                            <td className="table-cell-padding whitespace-nowrap text-sm text-gray-900 border-r border-gray-200 p-2">ラウンド
+                            <td className="table-cell-padding whitespace-nowrap text-sm text-gray-600 border-r border-gray-200 p-2">ラウンド
                             </td>
-                            <td className="table-cell-padding whitespace-nowrap text-sm text-gray-900 border-r border-gray-200 p-2">2/10/2022</td>
-                            <td className="table-cell-padding whitespace-nowrap text-sm text-gray-900 border-r border-gray-200 p-2">37°
+                            <td className="table-cell-padding whitespace-nowrap text-sm text-gray-600 border-r border-gray-200 p-2">2/10/2022</td>
+                            <td className="table-cell-padding whitespace-nowrap text-sm text-gray-600 border-r border-gray-200 p-2">37°
                                 45' 00"
                             </td>
-                            <td className="table-cell-padding whitespace-nowrap text-sm text-gray-900 border-r border-gray-200 p-2">141°
+                            <td className="table-cell-padding whitespace-nowrap text-sm text-gray-600 border-r border-gray-200 p-2">141°
                                 17' 00"
                             </td>
-                            <td className="table-cell-padding whitespace-nowrap text-sm text-gray-900 border-r border-gray-200 p-2">1-4-43</td>
-                            <td className="table-cell-padding whitespace-nowrap text-sm text-right text-gray-900 border-r border-gray-200 p-2">クリスタルユーアジア<br/>CRYSTAL
+                            <td className="table-cell-padding whitespace-nowrap text-sm text-gray-600 border-r border-gray-200 p-2">1-4-43</td>
+                            <td className="table-cell-padding whitespace-nowrap text-sm text-right text-gray-600 border-r border-gray-200 p-2">クリスタルユーアジア<br/>CRYSTAL
                                 ASIA
                             </td>
-                            <td className="table-cell-padding whitespace-nowrap text-sm text-right text-gray-900 border-r border-gray-200 p-2">945.58<br/>(945.57)
+                            <td className="table-cell-padding whitespace-nowrap text-sm text-right text-gray-600 border-r border-gray-200 p-2">945.58<br/>(945.57)
                             </td>
-                            <td className="table-cell-padding whitespace-nowrap text-sm text-right text-gray-900 border-r border-gray-200 p-2">945.58</td>
+                            <td className="table-cell-padding whitespace-nowrap text-sm text-right text-gray-600 border-r border-gray-200 p-2">945.58</td>
                         </tr>
                         <tr>
-                            <td className="table-cell-padding whitespace-nowrap text-sm text-gray-900 border-r border-gray-200 p-2"></td>
-                            <td className="table-cell-padding whitespace-nowrap text-sm text-gray-900 border-r border-gray-200 p-2"></td>
-                            <td className="table-cell-padding whitespace-nowrap text-sm text-gray-900 border-r border-gray-200 p-2"></td>
-                            <td className="table-cell-padding whitespace-nowrap text-sm text-gray-900 border-r border-gray-200 p-2">2/10/2022</td>
-                            <td className="table-cell-padding whitespace-nowrap text-sm text-gray-900 border-r border-gray-200 p-2">37°
+                            <td className="table-cell-padding whitespace-nowrap text-sm text-gray-600 border-r border-gray-200 p-2"></td>
+                            <td className="table-cell-padding whitespace-nowrap text-sm text-gray-600 border-r border-gray-200 p-2"></td>
+                            <td className="table-cell-padding whitespace-nowrap text-sm text-gray-600 border-r border-gray-200 p-2"></td>
+                            <td className="table-cell-padding whitespace-nowrap text-sm text-gray-600 border-r border-gray-200 p-2">2/10/2022</td>
+                            <td className="table-cell-padding whitespace-nowrap text-sm text-gray-600 border-r border-gray-200 p-2">37°
                                 45' 00"
                             </td>
-                            <td className="table-cell-padding whitespace-nowrap text-sm text-gray-900 border-r border-gray-200 p-2">141°
+                            <td className="table-cell-padding whitespace-nowrap text-sm text-gray-600 border-r border-gray-200 p-2">141°
                                 18' 00"
                             </td>
-                            <td className="table-cell-padding whitespace-nowrap text-sm text-gray-900 border-r border-gray-200 p-2">1-4-7</td>
-                            <td className="table-cell-padding whitespace-nowrap text-sm text-right text-gray-900 border-r border-gray-200 p-2">クリスタルユーアジア<br/>CRYSTAL
+                            <td className="table-cell-padding whitespace-nowrap text-sm text-gray-600 border-r border-gray-200 p-2">1-4-7</td>
+                            <td className="table-cell-padding whitespace-nowrap text-sm text-right text-gray-600 border-r border-gray-200 p-2">クリスタルユーアジア<br/>CRYSTAL
                                 ASIA
                             </td>
-                            <td className="table-cell-padding whitespace-nowrap text-sm text-right text-gray-900 border-r border-gray-200 p-2">1557.80<br/>(1557.90)
+                            <td className="table-cell-padding whitespace-nowrap text-sm text-right text-gray-600 border-r border-gray-200 p-2">1557.80<br/>(1557.90)
                             </td>
-                            <td className="table-cell-padding whitespace-nowrap text-sm text-right text-gray-900 border-r border-gray-200 p-2">4395.18</td>
+                            <td className="table-cell-padding whitespace-nowrap text-sm text-right text-gray-600 border-r border-gray-200 p-2">4395.18</td>
                         </tr>
                         <tr>
-                            <td className="table-cell-padding whitespace-nowrap text-sm text-gray-900 border-r border-gray-200 p-2"></td>
-                            <td className="table-cell-padding whitespace-nowrap text-sm text-gray-900 border-r border-gray-200 p-2"></td>
-                            <td className="table-cell-padding whitespace-nowrap text-sm text-gray-900 border-r border-gray-200 p-2"></td>
-                            <td className="table-cell-padding whitespace-nowrap text-sm text-gray-900 border-r border-gray-200 p-2">2/10/2022</td>
-                            <td className="table-cell-padding whitespace-nowrap text-sm text-gray-900 border-r border-gray-200 p-2">↑</td>
-                            <td className="table-cell-padding whitespace-nowrap text-sm text-gray-900 border-r border-gray-200 p-2">141°
+                            <td className="table-cell-padding whitespace-nowrap text-sm text-gray-600 border-r border-gray-200 p-2"></td>
+                            <td className="table-cell-padding whitespace-nowrap text-sm text-gray-600 border-r border-gray-200 p-2"></td>
+                            <td className="table-cell-padding whitespace-nowrap text-sm text-gray-600 border-r border-gray-200 p-2"></td>
+                            <td className="table-cell-padding whitespace-nowrap text-sm text-gray-600 border-r border-gray-200 p-2">2/10/2022</td>
+                            <td className="table-cell-padding whitespace-nowrap text-sm text-gray-600 border-r border-gray-200 p-2">↑</td>
+                            <td className="table-cell-padding whitespace-nowrap text-sm text-gray-600 border-r border-gray-200 p-2">141°
                                 18' 00"
                             </td>
-                            <td className="table-cell-padding whitespace-nowrap text-sm text-gray-900 border-r border-gray-200 p-2">1-4-7</td>
-                            <td className="table-cell-padding whitespace-nowrap text-sm text-right text-gray-900 border-r border-gray-200 p-2">クリスタルユーアジア<br/>CRYSTAL
+                            <td className="table-cell-padding whitespace-nowrap text-sm text-gray-600 border-r border-gray-200 p-2">1-4-7</td>
+                            <td className="table-cell-padding whitespace-nowrap text-sm text-right text-gray-600 border-r border-gray-200 p-2">クリスタルユーアジア<br/>CRYSTAL
                                 ASIA
                             </td>
-                            <td className="table-cell-padding whitespace-nowrap text-sm text-right text-gray-900 border-r border-gray-200 p-2">6,240.46</td>
-                            <td className="table-cell-padding whitespace-nowrap text-sm text-right text-gray-900 border-r border-gray-200 p-2">6,240.46</td>
+                            <td className="table-cell-padding whitespace-nowrap text-sm text-right text-gray-600 border-r border-gray-200 p-2">6,240.46</td>
+                            <td className="table-cell-padding whitespace-nowrap text-sm text-right text-gray-600 border-r border-gray-200 p-2">6,240.46</td>
                         </tr>
                         <tr>
-                            <td className="table-cell-padding whitespace-nowrap text-sm text-gray-900 border-r border-gray-200 p-2"></td>
-                            <td className="table-cell-padding whitespace-nowrap text-sm text-gray-900 border-r border-gray-200 p-2"></td>
-                            <td className="table-cell-padding whitespace-nowrap text-sm text-gray-900 border-r border-gray-200 p-2"></td>
-                            <td className="table-cell-padding whitespace-nowrap text-sm text-gray-900 border-r border-gray-200 p-2">2/26/2022</td>
-                            <td className="table-cell-padding whitespace-nowrap text-sm text-gray-900 border-r border-gray-200 p-2">↑</td>
-                            <td className="table-cell-padding whitespace-nowrap text-sm text-gray-900 border-r border-gray-200 p-2">141°
+                            <td className="table-cell-padding whitespace-nowrap text-sm text-gray-600 border-r border-gray-200 p-2"></td>
+                            <td className="table-cell-padding whitespace-nowrap text-sm text-gray-600 border-r border-gray-200 p-2"></td>
+                            <td className="table-cell-padding whitespace-nowrap text-sm text-gray-600 border-r border-gray-200 p-2"></td>
+                            <td className="table-cell-padding whitespace-nowrap text-sm text-gray-600 border-r border-gray-200 p-2">2/26/2022</td>
+                            <td className="table-cell-padding whitespace-nowrap text-sm text-gray-600 border-r border-gray-200 p-2">↑</td>
+                            <td className="table-cell-padding whitespace-nowrap text-sm text-gray-600 border-r border-gray-200 p-2">141°
                                 18' 00"
                             </td>
-                            <td className="table-cell-padding whitespace-nowrap text-sm text-gray-900 border-r border-gray-200 p-2">1-4-7</td>
-                            <td className="table-cell-padding whitespace-nowrap text-sm text-right text-gray-900 border-r border-gray-200 p-2">クリスタルユーアジア<br/>CRYSTAL
+                            <td className="table-cell-padding whitespace-nowrap text-sm text-gray-600 border-r border-gray-200 p-2">1-4-7</td>
+                            <td className="table-cell-padding whitespace-nowrap text-sm text-right text-gray-600 border-r border-gray-200 p-2">クリスタルユーアジア<br/>CRYSTAL
                                 ASIA
                             </td>
-                            <td className="table-cell-padding whitespace-nowrap text-sm text-right text-gray-900 border-r border-gray-200 p-2">6,240.46</td>
-                            <td className="table-cell-padding whitespace-nowrap text-sm text-right text-gray-900 border-r border-gray-200 p-2">6,240.46</td>
+                            <td className="table-cell-padding whitespace-nowrap text-sm text-right text-gray-600 border-r border-gray-200 p-2">6,240.46</td>
+                            <td className="table-cell-padding whitespace-nowrap text-sm text-right text-gray-600 border-r border-gray-200 p-2">6,240.46</td>
                         </tr>
                         <tr>
-                            <td className="table-cell-padding whitespace-nowrap text-sm text-gray-900 border-r border-gray-200 p-2"></td>
-                            <td className="table-cell-padding whitespace-nowrap text-sm text-gray-900 border-r border-gray-200 p-2"></td>
-                            <td className="table-cell-padding whitespace-nowrap text-sm text-gray-900 border-r border-gray-200 p-2"></td>
-                            <td className="table-cell-padding whitespace-nowrap text-sm text-gray-900 border-r border-gray-200 p-2"></td>
-                            <td className="table-cell-padding whitespace-nowrap text-sm text-gray-900 border-r border-gray-200 p-2"></td>
-                            <td className="table-cell-padding whitespace-nowrap text-sm text-gray-900 border-r border-gray-200 p-2">141°
+                            <td className="table-cell-padding whitespace-nowrap text-sm text-gray-600 border-r border-gray-200 p-2"></td>
+                            <td className="table-cell-padding whitespace-nowrap text-sm text-gray-600 border-r border-gray-200 p-2"></td>
+                            <td className="table-cell-padding whitespace-nowrap text-sm text-gray-600 border-r border-gray-200 p-2"></td>
+                            <td className="table-cell-padding whitespace-nowrap text-sm text-gray-600 border-r border-gray-200 p-2"></td>
+                            <td className="table-cell-padding whitespace-nowrap text-sm text-gray-600 border-r border-gray-200 p-2"></td>
+                            <td className="table-cell-padding whitespace-nowrap text-sm text-gray-600 border-r border-gray-200 p-2">141°
                                 18' 00"
                             </td>
-                            <td className="table-cell-padding whitespace-nowrap text-sm text-gray-900 border-r border-gray-200 p-2">1-4-7</td>
-                            <td className="table-cell-padding whitespace-nowrap text-sm text-right text-gray-900 border-r border-gray-200 p-2">小計
+                            <td className="table-cell-padding whitespace-nowrap text-sm text-gray-600 border-r border-gray-200 p-2">1-4-7</td>
+                            <td className="table-cell-padding whitespace-nowrap text-sm text-right text-gray-600 border-r border-gray-200 p-2">小計
                             </td>
-                            <td className="table-cell-padding whitespace-nowrap text-sm text-right text-gray-900 border-r border-gray-200 p-2">6,240.46</td>
-                            <td className="table-cell-padding whitespace-nowrap text-sm text-right text-gray-900 border-r border-gray-200 p-2">6,240.46</td>
+                            <td className="table-cell-padding whitespace-nowrap text-sm text-right text-gray-600 border-r border-gray-200 p-2">6,240.46</td>
+                            <td className="table-cell-padding whitespace-nowrap text-sm text-right text-gray-600 border-r border-gray-200 p-2">6,240.46</td>
                         </tr>
                         <tr>
-                            <td className="table-cell-padding whitespace-nowrap text-sm text-gray-900 border-r border-gray-200 p-2"></td>
-                            <td className="table-cell-padding whitespace-nowrap text-sm text-gray-900 border-r border-gray-200 p-2"></td>
-                            <td className="table-cell-padding whitespace-nowrap text-sm text-gray-900 border-r border-gray-200 p-2"></td>
-                            <td className="table-cell-padding whitespace-nowrap text-sm text-gray-900 border-r border-gray-200 p-2"></td>
-                            <td className="table-cell-padding whitespace-nowrap text-sm text-gray-900 border-r border-gray-200 p-2"></td>
-                            <td className="table-cell-padding whitespace-nowrap text-sm text-gray-900 border-r border-gray-200 p-2">141°
+                            <td className="table-cell-padding whitespace-nowrap text-sm text-gray-600 border-r border-gray-200 p-2"></td>
+                            <td className="table-cell-padding whitespace-nowrap text-sm text-gray-600 border-r border-gray-200 p-2"></td>
+                            <td className="table-cell-padding whitespace-nowrap text-sm text-gray-600 border-r border-gray-200 p-2"></td>
+                            <td className="table-cell-padding whitespace-nowrap text-sm text-gray-600 border-r border-gray-200 p-2"></td>
+                            <td className="table-cell-padding whitespace-nowrap text-sm text-gray-600 border-r border-gray-200 p-2"></td>
+                            <td className="table-cell-padding whitespace-nowrap text-sm text-gray-600 border-r border-gray-200 p-2">141°
                                 18' 00"
                             </td>
-                            <td className="table-cell-padding whitespace-nowrap text-sm text-gray-900 border-r border-gray-200 p-2">1-4-7</td>
-                            <td className="table-cell-padding whitespace-nowrap text-sm text-right text-gray-900 border-r border-gray-200 p-2">漁獲計</td>
-                            <td className="table-cell-padding whitespace-nowrap text-sm text-right text-gray-900 border-r border-gray-200 p-2">6,240.46</td>
-                            <td className="table-cell-padding whitespace-nowrap text-sm text-right text-gray-900 border-r border-gray-200 p-2">6,240.46</td>
+                            <td className="table-cell-padding whitespace-nowrap text-sm text-gray-600 border-r border-gray-200 p-2">1-4-7</td>
+                            <td className="table-cell-padding whitespace-nowrap text-sm text-right text-gray-600 border-r border-gray-200 p-2">漁獲計</td>
+                            <td className="table-cell-padding whitespace-nowrap text-sm text-right text-gray-600 border-r border-gray-200 p-2">6,240.46</td>
+                            <td className="table-cell-padding whitespace-nowrap text-sm text-right text-gray-600 border-r border-gray-200 p-2">6,240.46</td>
                         </tr>
                         </tbody>
                     </table>
@@ -389,9 +389,9 @@ export default function TransferredDataDisplay() {
                             <span className="sr-only">Previous</span>
                             <svg className="h-5 w-5" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"
                                  fill="currentColor" aria-hidden="true">
-                                <path fill-rule="evenodd"
+                                <path fillRule="evenodd"
                                       d="M9.707 4.293a1 1 0 010 1.414L6.414 10l3.293 3.293a1 1 0 01-1.414 1.414l-4-4a1 1 0 010-1.414l4-4a1 1 0 011.414 0zM14.707 4.293a1 1 0 010 1.414L11.414 10l3.293 3.293a1 1 0 01-1.414 1.414l-4-4a1 1 0 010-1.414l4-4a1 1 0 011.414 0z"
-                                      clip-rule="evenodd"/>
+                                      clipRule="evenodd"/>
                             </svg>
 
                         </a>
@@ -400,9 +400,9 @@ export default function TransferredDataDisplay() {
                             <span className="sr-only">Previous</span>
                             <svg className="h-5 w-5" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"
                                  fill="currentColor" aria-hidden="true">
-                                <path fill-rule="evenodd"
+                                <path fillRule="evenodd"
                                       d="M12.707 5.293a1 1 0 010 1.414L9.414 10l3.293 3.293a1 1 0 01-1.414 1.414l-4-4a1 1 0 010-1.414l4-4a1 1 0 011.414 0z"
-                                      clip-rule="evenodd"/>
+                                      clipRule="evenodd"/>
                             </svg>
 
                         </a>
@@ -431,9 +431,9 @@ export default function TransferredDataDisplay() {
                             <span className="sr-only">Next</span>
                             <svg className="h-5 w-5" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"
                                  fill="currentColor" aria-hidden="true">
-                                <path fill-rule="evenodd"
+                                <path fillRule="evenodd"
                                       d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z"
-                                      clip-rule="evenodd"/>
+                                      clipRule="evenodd"/>
                             </svg>
                         </a>
                         <a href="#"
@@ -441,9 +441,9 @@ export default function TransferredDataDisplay() {
                             <span className="sr-only">Last</span>
                             <svg className="h-5 w-5" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"
                                  fill="currentColor" aria-hidden="true">
-                                <path fill-rule="evenodd"
+                                <path fillRule="evenodd"
                                       d="M10.293 15.707a1 1 0 010-1.414L13.586 10l-3.293-3.293a1 1 0 111.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0zM5.293 15.707a1 1 0 010-1.414L8.586 10l-3.293-3.293a1 1 0 111.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z"
-                                      clip-rule="evenodd"/>
+                                      clipRule="evenodd"/>
                             </svg>
                         </a>
                     </nav>
